@@ -28,7 +28,7 @@ A classic Pong game implemented in VB.NET using Windows Forms. This game support
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Denji-1/Pong-Board.git
+   git clone https://github.com/Denji-1/PongBoard.git
 
 
  
