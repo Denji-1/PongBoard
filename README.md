@@ -8,7 +8,7 @@ A classic Pong game implemented in VB.NET using Windows Forms. This game support
 - **Two-Player Mode**: Compete against a friend using separate keyboard controls.
 - **Pause and Resume**: Toggle between pausing and resuming the game.
 - **Game Mode Toggle**: Switch between Single Player and Two Player modes dynamically.
-- **Score Tracking**: Tracks the score for each player and ends the game at a set score limit (default: 10).
+- **Score Tracking**: Tracks the score for each player and ends the game at a set score limit.
 
 ## Controls
 
